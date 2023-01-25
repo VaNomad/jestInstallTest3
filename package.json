@@ -1,0 +1,25 @@
+{
+  "name": "jestinstalltest3",
+  "version": "0.0.1",
+  "description": "Test installation of Jest testing framework at Noroff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaNomad/jestInstallTest3.git"
+  },
+  "keywords": [
+    "setup",
+    "environment",
+    "work-environment",
+    "test"
+  ],
+  "author": "Sjur Hassel <sjur.hassel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaNomad/jestInstallTest3/issues"
+  },
+  "homepage": "https://github.com/VaNomad/jestInstallTest3#readme"
+}
