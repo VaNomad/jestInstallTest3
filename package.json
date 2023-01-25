@@ -4,7 +4,8 @@
   "description": "Test installation of Jest testing framework at Noroff",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test-unit",
+    "test-unit": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/VaNomad/jestInstallTest3/issues"
   },
-  "homepage": "https://github.com/VaNomad/jestInstallTest3#readme"
+  "homepage": "https://github.com/VaNomad/jestInstallTest3#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
 }
