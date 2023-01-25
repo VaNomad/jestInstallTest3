@@ -1,7 +1,7 @@
 {
   "name": "jestinstalltest3",
   "version": "0.0.1",
-  "description": "Test installation of Jest testing framework at Noroff",
+  "description": "Test setup of environment configured for testing with Jest using ES6 ",
   "main": "index.js",
   "scripts": {
     "test": "npm run test-unit",
@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/VaNomad/jestInstallTest3#readme",
   "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.4",
     "eslint": "^8.32.0",
     "eslint-plugin-jest": "^27.2.1",
     "jest": "^29.2.0"
